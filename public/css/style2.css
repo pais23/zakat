@@ -1,0 +1,94 @@
+#box1{
+    width: 500px;
+    height: 500px;
+    border: 1px solid;
+    background: #191919;
+    margin:auto;
+}
+#box2{
+    width: 500px;
+    height: 60px;
+    border: 1px solid rgb(139, 0, 182);
+    background: #191919;
+    margin: auto;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 50px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    color:  white;
+}
+.box3 input[type = "submit"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid rgb(139, 0, 182);
+    padding:14px 40px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+.box4 input[type = "submit"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid rgb(139, 0, 182);
+    padding:14px 40px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+.box5 input[type = "submit"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid rgb(139, 0, 182);
+    padding:14px 40px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+.box6 input[type = "submit"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid rgb(139, 0, 182);
+    padding:14px 40px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+.box3 input[type = "submit"]:hover{
+    background: rgb(139, 0, 182);
+}
+.box4 input[type = "submit"]:hover{
+    background: rgb(139, 0, 182);
+}
+.box5 input[type = "submit"]:hover{
+    background: rgb(139, 0, 182);
+}
+.box6 input[type = "submit"]:hover{
+    background: rgb(1, 183, 255);
+}
+div.badan{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #f0f0f0;
+    margin-bottom: 10px;
+}

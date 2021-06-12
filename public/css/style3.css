@@ -1,0 +1,59 @@
+#bg{
+    width: 600px;
+    height: 700px;
+    border: 1px solid;
+    background: #191919;
+    margin: auto;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 22px;
+}
+#hal{
+    width: 500px;
+    height: 60px;
+    border: 1px solid rgb(139, 0, 182);
+    background: #191919;
+    margin: auto;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 50px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    color:  white;
+}
+.buku1 input[type = "submit"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid rgb(139, 0, 182);
+    padding:14px 40px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+.next input[type = "submit"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid rgb(139, 0, 182);
+    padding:14px 40px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+
+.buku1 input[type = "submit"]:hover{
+    background: rgb(139, 0, 182);
+}
+.next input[type = "submit"]:hover{
+    background: rgb(139, 0, 182);
+}
